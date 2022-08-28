@@ -1,0 +1,25 @@
+table{
+    border: 5px solid black; 
+  }
+  tr{
+   border: 20px solid rgb(241, 57, 57);
+   background-color: rgb(213, 56, 56);
+   color: white;
+  }
+  
+  h1{
+    font-size: 90px;
+    text-align: center;
+    border: 25PX solid BLACK;
+    padding: 0PX;
+    background-color: aqua;
+    font-weight: bolder;
+    font-family: cursive;
+  }
+  body{
+    background-color: silver;
+  }
+  table{
+    height: 100px;
+    margin: 200px;
+  }
